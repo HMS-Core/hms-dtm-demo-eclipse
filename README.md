@@ -30,10 +30,10 @@ For more details, please refer to [Development Guide](https://developer.huawei.c
 	
 3. Build the demo.
 
-	To build this demo, please first import the demo to Android Studio (3.X or later). Then download the agconnect-services.json file of the app from AppGallery Connect, and add the file to the app directory (\app) of the demo. 
+	To build this demo, please first import the demo to Eclipse. Then download the agconnect-services.json file of the app from AppGallery Connect, and add the file to the app directory (\app) of the demo. 
 
 ## Supported Environments
-Android Studio 3.0 or later and JDK 1.7 or later
+Android SDK 28 or later and JDK 1.7 or later
 
 ## Result
    <img src="result_1.png" width = 60% height = 60%>
