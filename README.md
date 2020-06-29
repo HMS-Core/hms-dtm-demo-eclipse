@@ -30,7 +30,7 @@ For more details, please refer to [Development Guide](https://developer.huawei.c
 	
 3. Build the demo.
 
-	To build this demo, please first import the demo to Eclipse. Then download the agconnect-services.json file of the app from AppGallery Connect, and add the file to the app directory (\app) of the demo. 
+	To build this demo, please first import the demo to Eclipse. Then download the agconnect-services.json file of the app from AppGallery Connect, and add the file to the app directory (\HMSDTMSample\assets) of the demo. 
 
 ## Supported Environments
 Android SDK 28 or later and JDK 1.7 or later
