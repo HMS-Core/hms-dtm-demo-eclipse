@@ -1,6 +1,6 @@
 # HMS Dynamic Tag Manager(DTM) Sample for Eclipse
 
-中文 | [English](https://github.com/HMS-Core/hms-dtm-demo-android-studio/blob/master/README.md)
+中文 | [English](https://github.com/HMS-Core/hms-dtm-demo-eclipse/blob/master/README.md)
 
 ## 目录
 
