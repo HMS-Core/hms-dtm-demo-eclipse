@@ -23,21 +23,21 @@ For more details, please refer to [Development Guide](https://developer.huawei.c
 ## Getting Started
 1. Register as a developer.
 
-	Register a [HUAWEI account](https://developer.huawei.com/consumer/en/doc/start/10104).
+Register a [HUAWEI account](https://developer.huawei.com/consumer/en/doc/start/10104).
 
 2. Create an app.
 
-	Create an app and enable APIs.
-	
+Create an app and enable APIs.
+
 3. Build the demo.
 
-	To build this demo, please first import the demo to Eclipse. Then download the agconnect-services.json file of the app from AppGallery Connect, and add the file to the app directory (\HMSDTMSample\assets) of the demo. 
+To build this demo, please first import the demo to Eclipse. Then download the agconnect-services.json file of the app from AppGallery Connect, and add the file to the app directory (\HMSDTMSample\assets) of the demo. 
 
 ## Supported Environments
 Android SDK 28 or later and JDK 1.7 or later
 
 ## Result
-   <img src="result_1.png" width = 60% height = 60%>
+<img src="result_1.png" width = 60% height = 60%>
 
 ## Question or issues
 If you have questions about how to use HMS samples, try the following options:
