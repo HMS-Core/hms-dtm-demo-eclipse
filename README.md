@@ -21,7 +21,6 @@ This demo shows you how to track purchase events and report data, helping you in
 For more details, please refer to [Development Guide](https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/introduction-0000001050043907).
 
 ## Getting Started
-Before you start developing an app, configure your app information in AppGallery Connect.
 1. Register as a developer.
 Register a [HUAWEI account](https://developer.huawei.com/consumer/en/doc/20300).
 
