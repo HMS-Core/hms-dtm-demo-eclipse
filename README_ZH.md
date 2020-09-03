@@ -12,7 +12,6 @@
  * [运行结果](#运行结果)
  * [许可证](#许可证)
 
-
 ## 介绍
 Dynamic Tag Manager通过Web页面动态更新跟踪代码，轻松完成特定事件跟踪并将数据传送给第三方分析平台，实现营销数据随需监控。
 
@@ -33,7 +32,7 @@ Dynamic Tag Manager通过Web页面动态更新跟踪代码，轻松完成特定�
 推荐使用Android SDK 28及JDK 1.7以上的版本。
 
 ## 运行结果
-   <img src="result_2.png" width = 60% height = 60%>
+<img src="result_2.png" width = 60% height = 60%>
 
 ## 许可证
-此示例代码已获得[Apache License, version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
+此示例代码已获得[Apache License, version 2.0](http://www.apache.org/licenses/LICENSE-2.0)授权许可.
