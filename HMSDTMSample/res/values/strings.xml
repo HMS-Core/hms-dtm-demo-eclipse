@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HMSDTMSample</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <!--无痕埋点/全埋点-->
+    <string name="report">Report</string>
+    <string name="auto_trace">Auto Trace</string>
+    <string name="auto_trace_fg">Auto Trace For Fragment</string>
+    <string name="auto_trace_lv">Auto Trace For ListView</string>
+    <string name="auto_trace_rv">Auto Trace For RecyclerView</string>
+    <string name="auto_trace_sv_v">Auto Trace For ScrollView vertical</string>
+    <string name="auto_trace_sv_h">Auto Trace For ScrollView horizontal</string>
+    <string name="auto_trace_vp">Auto Trace For ViewPager</string>
+    <string name="auto_trace_tab_host">Auto Trace For TabHost</string>
+    
+    
+    <string name="add_item">Add Item</string>
+    <string name="del_item">Del Item</string>
+    <string name="presidential_room">Presidential room</string>
+    <string name="family_room">Family room</string>
+    <string name="double_bed_room">Twin bed room</string>
+    <string name="king_bed_room">Bit bed room</string>
+    <string name="single_room">Single room</string>
+    <string name="price">398</string>
+    <string name="book">Reserve</string>
+    <string name="add_fragment">Add Fragment</string>
+    <string name="swipe_left_and_right">Swipe left and right</string>
+
+</resources>

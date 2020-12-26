@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hms_abort" priority="translator">"Zaustavi"</string>
+    <string name="hms_abort_message" priority="translator">"Zaustaviti preuzimanje?"</string>
+    <string name="hms_bindfaildlg_message" priority="translator">"%1$s ne može koristiti HMS Core. Pokrenite Optimizator (Upravitelj telefonom) ili idite u opciju Postavke, omogućite sve dozvole za %2$s (uključujući automatsko pokretanje i sekundarno pokretanje) i pokušajte ponovo."</string>
+    <string name="hms_cancel" priority="translator">"Otkaži"</string>
+    <string name="hms_check_failure" priority="translator">"Provjera ažuriranja nije uspjela."</string>
+    <string name="hms_checking" priority="translator">"Traženje ažuriranih sadržaja u toku…"</string>
+    <string name="hms_confirm" priority="translator">"OK"</string>
+    <string name="hms_download_failure" priority="translator">"Preuzimanje paketa aplikacije HMS Core nije uspjelo."</string>
+    <string name="hms_download_no_space" priority="translator">"Nema dovoljno slobodnog prostora. Preuzimanje nije moguće dovršiti."</string>
+    <string name="hms_download_retry" priority="translator">"Preuzimanje neuspješno. Pokušati ponovno?"</string>
+    <string name="hms_downloading_loading" priority="LT">"Preuzimanje"</string>
+    <string name="hms_install" priority="translator">"Instaliraj"</string>
+    <string name="hms_install_message" priority="translator">"Funkcija HMS Core mora biti instalirana da biste mogli koristiti ovu funkcionalnost. Instalirati?"</string>
+    <string name="hms_retry" priority="translator">"Ponovi"</string>
+    <string name="hms_update" priority="translator">"Ažuriraj"</string>
+    <string name="hms_update_continue" priority="LT">"Preuzmi"</string>
+    <string name="hms_update_message" priority="translator">"Ažurirajte na najnoviju verziju aplikacije HMS Core da biste mogli koristiti ovu funkcionalnost. Ažurirati sada?"</string>
+    <string name="hms_update_message_new" priority="LT">"Ova usluga zahtijeva najnoviju verziju sljedećih aplikacija:\n\n%1$s"</string>
+    <string name="hms_update_nettype" priority="LT">"Nema Wi-Fi veze. Preuzeti prijenosom podataka?"</string>
+    <string name="hms_update_title" priority="translator">"HMS Core"</string>
+</resources>

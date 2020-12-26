@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="dtm_visual_dialog_message" priority="LT">"Apa sampeyan yakin pengin medhot sambungan saka server?"</string>
+    <string name="dtm_visual_dialog_button_cancel" priority="LT">"Wurung"</string>
+    <string name="dtm_visual_dialog_button_confirm" priority="translator">"OK"</string>
+    <string name="dtm_visual_toast_connect_failed" priority="translator">"Ora bisa nyambung."</string>
+    <string name="dtm_visual_toast_disconnect" priority="translator">"Sambungan pedhot."</string>
+    <string name="dtm_preview_float_dialog_message" priority="LT">Metu saka pratinjo?</string>
+    <string name="dtm_preview_control_button_description" priority="translator">Metu saka pratinjo, tombol, klik kaping pindho kanggo nindakake</string>
+    <string name="dtm_visual_control_button_description" priority="translator">Metu saka visual, tombol, klik kaping pindho kanggo nindakake</string>
+    <string name="dtm_preview_dialog_button_confirm" priority="translator">"Metu"</string>
+    <string name="dtm_preview_toast_failed" priority="translator">"Pratinjo gagal."</string>
+</resources>

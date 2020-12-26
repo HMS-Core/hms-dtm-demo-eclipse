@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="dtm_visual_dialog_message" priority="LT">"Weet u zeker dat u de verbinding met de server wilt verbreken?"</string>
+    <string name="dtm_visual_dialog_button_cancel" priority="LT">"Annuleren"</string>
+    <string name="dtm_visual_dialog_button_confirm" priority="translator">"OK"</string>
+    <string name="dtm_visual_toast_connect_failed" priority="translator">"Kan geen verbinding maken."</string>
+    <string name="dtm_visual_toast_disconnect" priority="translator">"Verbinding verbroken."</string>
+    <string name="dtm_preview_float_dialog_message" priority="LT">Voorbeeld afsluiten?</string>
+    <string name="dtm_preview_control_button_description" priority="translator">Voorbeeld afsluiten,knop,dubbelklikken om uit te voeren</string>
+    <string name="dtm_visual_control_button_description" priority="translator">Beeldmateriaal afsluiten,knop,dubbelklikken om uit te voeren</string>
+    <string name="dtm_preview_dialog_button_confirm" priority="translator">"Afsluiten"</string>
+    <string name="dtm_preview_toast_failed" priority="translator">"Voorbeeld mislukt."</string>
+</resources>

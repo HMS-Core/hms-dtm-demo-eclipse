@@ -1,0 +1,6 @@
+#
+
+-keep class com.huawei.agconnect.common.api.*{*;}
+-keep class com.huawei.agconnect.credential.*{*;}
+
+-keep class com.huawei.agconnect.credential.obs.*{*;}

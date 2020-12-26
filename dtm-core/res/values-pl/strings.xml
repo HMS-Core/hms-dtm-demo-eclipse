@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="dtm_visual_dialog_message" priority="LT">"Czy na pewno chcesz rozłączyć połączenie z serwerem?"</string>
+    <string name="dtm_visual_dialog_button_cancel" priority="LT">"Anuluj"</string>
+    <string name="dtm_visual_dialog_button_confirm" priority="translator">"OK"</string>
+    <string name="dtm_visual_toast_connect_failed" priority="translator">"Nie można połączyć."</string>
+    <string name="dtm_visual_toast_disconnect" priority="translator">"Rozłączono."</string>
+    <string name="dtm_preview_float_dialog_message" priority="LT">Zamknąć podgląd?</string>
+    <string name="dtm_preview_control_button_description" priority="translator">Zamknij podgląd,przycisk,dwukrotne kliknięcie wykonuje akcję</string>
+    <string name="dtm_visual_control_button_description" priority="translator">Zamknij wizualizację,przycisk,dwukrotne kliknięcie wykonuje akcję</string>
+    <string name="dtm_preview_dialog_button_confirm" priority="translator">"Wyjdź"</string>
+    <string name="dtm_preview_toast_failed" priority="translator">"Nie można wyświetlić podglądu."</string>
+</resources>

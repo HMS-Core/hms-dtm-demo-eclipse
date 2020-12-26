@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="dtm_visual_dialog_message" priority="LT">"서버 연결을 해제하시겠습니까?"</string>
+    <string name="dtm_visual_dialog_button_cancel" priority="LT">"취소"</string>
+    <string name="dtm_visual_dialog_button_confirm" priority="translator">"확인"</string>
+    <string name="dtm_visual_toast_connect_failed" priority="translator">"연결할 수 없습니다."</string>
+    <string name="dtm_visual_toast_disconnect" priority="translator">"연결이 해제되었습니다."</string>
+    <string name="dtm_preview_float_dialog_message" priority="LT">미리보기를 끝내시겠습니까?</string>
+    <string name="dtm_preview_control_button_description" priority="translator">Exit preview,button,double click to execute</string>
+    <string name="dtm_visual_control_button_description" priority="translator">Exit visual,button,double click to execute</string>
+    <string name="dtm_preview_dialog_button_confirm" priority="translator">"끝내기"</string>
+    <string name="dtm_preview_toast_failed" priority="translator">"미리보기에 실패했습니다."</string>
+</resources>

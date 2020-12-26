@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="dtm_visual_dialog_message" priority="LT">"अहां ठीके सर्वर सँ कनेक्शन हटायब चाहैत छी?"</string>
+    <string name="dtm_visual_dialog_button_cancel" priority="LT">"रद्द करू"</string>
+    <string name="dtm_visual_dialog_button_confirm" priority="translator">"ठीक अछि"</string>
+    <string name="dtm_visual_toast_connect_failed" priority="translator">"कनेक्ट करबा मे असमर्थ।"</string>
+    <string name="dtm_visual_toast_disconnect" priority="translator">"कनेक्शन हटाओल गेल।"</string>
+    <string name="dtm_preview_float_dialog_message" priority="LT">प्रिव्यू सँ बाहर निकली?</string>
+    <string name="dtm_preview_control_button_description" priority="translator">प्रिव्यू सँ बाहर होउ, बटन, निष्पादित करबाक लेल दू बेर क्लिक करू</string>
+    <string name="dtm_visual_control_button_description" priority="translator">विजुअल सँ बाहर होउ, बटन, निष्पादित करबाक लेल दू बेर क्लिक करू</string>
+    <string name="dtm_preview_dialog_button_confirm" priority="translator">"बाहर निकलू"</string>
+    <string name="dtm_preview_toast_failed" priority="translator">"प्रीव्यू नहि देखल जा सकल।"</string>
+</resources>

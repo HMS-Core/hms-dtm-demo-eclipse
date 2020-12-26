@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    
+    <Button 
+        android:id="@+id/auto_trace_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="30dp"
+        android:onClick="onClick"
+        android:text="@string/auto_trace"
+        android:background="@drawable/shape_corner_rectangle"
+        android:textAllCaps="false" />
+    
+    <Button 
+        android:id="@+id/report_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:onClick="onClick"
+        android:text="@string/report"
+        android:background="@drawable/shape_corner_rectangle"
+        android:textAllCaps="false" />
+    
+    <TextView 
+        android:id="@+id/report_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:padding="20dp"
+        android:background="@drawable/shape_rectangle" />
+      
+</LinearLayout>
+
+

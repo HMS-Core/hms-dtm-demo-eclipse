@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="dtm_visual_dialog_message" priority="LT">"আপুনি ছাৰ্ভাৰৰ পৰা সংযোগ বিচ্ছিন্ন কৰিব বিচৰাটো নিশ্চিতনে?"</string>
+    <string name="dtm_visual_dialog_button_cancel" priority="LT">"বাতিল কৰক"</string>
+    <string name="dtm_visual_dialog_button_confirm" priority="translator">"ঠিক আছে"</string>
+    <string name="dtm_visual_toast_connect_failed" priority="translator">"সংযোগ কৰিবলৈ অক্ষম।"</string>
+    <string name="dtm_visual_toast_disconnect" priority="translator">"সংযোগ বিচ্ছিন্ন হ\'ল।"</string>
+    <string name="dtm_preview_float_dialog_message" priority="LT">পূৰ্বলোকনৰ পৰা প্ৰস্থান কৰিবনে?</string>
+    <string name="dtm_preview_control_button_description" priority="translator">Exit preview,button,double click to execute</string>
+    <string name="dtm_visual_control_button_description" priority="translator">Exit visual,button,double click to execute</string>
+    <string name="dtm_preview_dialog_button_confirm" priority="translator">"প্ৰস্থান কৰক"</string>
+    <string name="dtm_preview_toast_failed" priority="translator">"পূৰ্বলোকন বিফল হ\'ল।"</string>
+</resources>

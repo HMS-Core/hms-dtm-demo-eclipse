@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="dtm_visual_dialog_message" priority="LT">"Vai tiešām vēlaties pārtraukt savienojumu ar serveri?"</string>
+    <string name="dtm_visual_dialog_button_cancel" priority="LT">"Atcelt"</string>
+    <string name="dtm_visual_dialog_button_confirm" priority="translator">"Labi"</string>
+    <string name="dtm_visual_toast_connect_failed" priority="translator">"Nevar izveidot savienojumu."</string>
+    <string name="dtm_visual_toast_disconnect" priority="translator">"Savienojums pārtraukts."</string>
+    <string name="dtm_preview_float_dialog_message" priority="LT">Vai iziet no priekšskatījuma?</string>
+    <string name="dtm_preview_control_button_description" priority="translator">Iziet no priekšskatījuma, poga, dubultklikšķis, lai izpildītu</string>
+    <string name="dtm_visual_control_button_description" priority="translator">Iziet no vizuālā materiāla, poga, dubultklikšķis, lai izpildītu</string>
+    <string name="dtm_preview_dialog_button_confirm" priority="translator">"Iziet"</string>
+    <string name="dtm_preview_toast_failed" priority="translator">"Priekšskatīšana neizdevās."</string>
+</resources>

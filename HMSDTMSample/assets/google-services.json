@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "482787825339",
+    "firebase_url": "https://demotest-25dbf.firebaseio.com",
+    "project_id": "demotest-25dbf",
+    "storage_bucket": "demotest-25dbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482787825339:android:32dd40ec596bc7cfe23b9e",
+        "android_client_info": {
+          "package_name": "com.demohasdk.huawei"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482787825339-14jsce9el70pnekaa6ensj8v36jclqhj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUgaHg66jizFiKgDRwNz-JgeQoU1__KJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482787825339-14jsce9el70pnekaa6ensj8v36jclqhj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

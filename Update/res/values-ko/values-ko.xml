@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="upsdk_app_dl_installing" priority="LT">"AppGallery 다운로드 중"</string>
+    <string name="upsdk_app_download_info_new" priority="translator">"설치"</string>
+    <string name="upsdk_app_download_installing" priority="translator">"%s 다운로드 중..."</string>
+    <string name="upsdk_app_size" priority="translator">"크기"</string>
+    <string name="upsdk_app_version" priority="translator">"버전"</string>
+    <string name="upsdk_appstore_install" priority="translator">"%s을(를) 이용하려면 이 앱을 업데이트해야 합니다. 지금 설치하시겠습니까?"</string>
+    <string name="upsdk_cancel" priority="translator">"취소"</string>
+    <string name="upsdk_checking_update_prompt" priority="LT">"업데이트 확인 중…"</string>
+    <string name="upsdk_choice_update" priority="LT">"새로운 업데이트가 있습니다. 최신 버전을 다운로드하여 설치하세요."</string>
+    <string name="upsdk_connect_server_fail_prompt_toast" priority="translator">"서버에 연결할 수 없습니다. 나중에 다시 시도하세요."</string>
+    <string name="upsdk_detail" priority="translator">"상세사항"</string>
+    <string name="upsdk_getting_message_fail_prompt_toast" priority="translator">"정보를 검색할 수 없습니다. 나중에 다시 시도하세요."</string>
+    <string name="upsdk_no_available_network_prompt_toast" priority="translator">"인터넷이 연결되지 않았습니다. 네트워크 설정을 확인해 주세요."</string>
+    <string name="upsdk_ota_app_name" priority="LT">"앱"</string>
+    <string name="upsdk_ota_cancel" priority="translator">"나중에"</string>
+    <string name="upsdk_ota_force_cancel_new" priority="LT">"나가기"</string>
+    <string name="upsdk_ota_notify_updatebtn" priority="translator">"업데이트"</string>
+    <string name="upsdk_ota_title" priority="translator">"새로운 버전"</string>
+    <string name="upsdk_storage_utils" priority="LT">"%1$sMB"</string>
+    <string name="upsdk_third_app_dl_cancel_download_prompt_ex" priority="translator">"설치를 취소할까요?"</string>
+    <string name="upsdk_third_app_dl_install_failed" priority="translator">"설치에 실패했습니다."</string>
+    <string name="upsdk_third_app_dl_sure_cancel_download" priority="translator">"예"</string>
+    <string name="upsdk_update_check_no_new_version" priority="Reviewed">"최신 버전입니다."</string>
+</resources>

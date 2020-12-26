@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="dtm_visual_dialog_message" priority="LT">"Pastikah anda ingin memutuskan sambungan dari pelayan?"</string>
+    <string name="dtm_visual_dialog_button_cancel" priority="LT">"Batalkan"</string>
+    <string name="dtm_visual_dialog_button_confirm" priority="translator">"OK"</string>
+    <string name="dtm_visual_toast_connect_failed" priority="translator">"Tidak dapat bersambung."</string>
+    <string name="dtm_visual_toast_disconnect" priority="translator">"Diputuskan sambungan."</string>
+    <string name="dtm_preview_float_dialog_message" priority="LT">Keluar dari pralihat?</string>
+    <string name="dtm_preview_control_button_description" priority="translator">Keluar dari pralihat,butang,dwiklik untuk melaksanakan</string>
+    <string name="dtm_visual_control_button_description" priority="translator">Keluar dari visual,butang,dwiklik untuk melaksanakan</string>
+    <string name="dtm_preview_dialog_button_confirm" priority="translator">"Keluar"</string>
+    <string name="dtm_preview_toast_failed" priority="translator">"Pralihat gagal."</string>
+</resources>

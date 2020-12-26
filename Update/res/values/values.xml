@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="upsdk_blue_text_007dff">#007dff</color>
+    <color name="upsdk_category_button_select_pressed">#0076f2</color>
+    <color name="upsdk_color_gray_1">#F2F2F2</color>
+    <color name="upsdk_color_gray_10">#191919</color>
+    <color name="upsdk_color_gray_7">#808080</color>
+    <color name="upsdk_white">#FFFFFFFF</color>
+    <dimen name="upsdk_margin_l">16dp</dimen>
+    <dimen name="upsdk_margin_m">8dp</dimen>
+    <dimen name="upsdk_margin_xs">2dp</dimen>
+    <dimen name="upsdk_master_body_2">13sp</dimen>
+    <dimen name="upsdk_master_subtitle">15sp</dimen>
+    <string name="upsdk_app_dl_installing" priority="LT">Downloading AppGallery</string>
+    <string name="upsdk_app_download_info_new" priority="LT">Install</string>
+    <string name="upsdk_app_download_installing" priority="translator">Downloading %s…</string>
+    <string name="upsdk_app_size" priority="LT">Size</string>
+    <string name="upsdk_app_version" priority="LT">Version</string>
+    <string name="upsdk_appstore_install" priority="translator">%s is required to update this app. Install now?</string>
+    <string name="upsdk_apptouch_store_url" translatable="false">https://store-at-dre.hispace.dbankcloud.com/hwmarket/api/</string>
+    <string name="upsdk_cancel" priority="LT">Cancel</string>
+    <string name="upsdk_checking_update_prompt" priority="LT">Checking for updates…</string>
+    <string name="upsdk_choice_update" priority="LT">Update available. Please download and install the latest version.</string>
+    <string name="upsdk_connect_server_fail_prompt_toast" priority="translator">Unable to connect to server. Please try again later.</string>
+    <string name="upsdk_detail" priority="LT">Details</string>
+    <string name="upsdk_getting_message_fail_prompt_toast" priority="translator">Unable to retrieve information. Please try again later.</string>
+    <string name="upsdk_no_available_network_prompt_toast" priority="translator">No Internet connection. Please check your network settings.</string>
+    <string name="upsdk_ota_app_name" priority="LT">App</string>
+    <string name="upsdk_ota_cancel" priority="LT">Later</string>
+    <string name="upsdk_ota_force_cancel_new" priority="LT">Exit</string>
+    <string name="upsdk_ota_notify_updatebtn" priority="LT">Update</string>
+    <string name="upsdk_ota_title" priority="LT">New version</string>
+    <string name="upsdk_storage_utils" priority="LT">%1$s MB</string>
+    <string name="upsdk_store_url" translatable="false">https://store.hispace.hicloud.com/hwmarket/api/</string>
+    <string name="upsdk_third_app_dl_cancel_download_prompt_ex" priority="translator">Cancel the installation?</string>
+    <string name="upsdk_third_app_dl_install_failed" priority="translator">Installation failed.</string>
+    <string name="upsdk_third_app_dl_sure_cancel_download" priority="translator">Yes</string>
+    <string name="upsdk_update_check_no_new_version" priority="LT">Your version is up to date.</string>
+</resources>

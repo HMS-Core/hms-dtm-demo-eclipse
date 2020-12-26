@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="dtm_visual_dialog_message" priority="LT">"Bạn có chắc bạn muốn ngắt kết nối với máy chủ?"</string>
+    <string name="dtm_visual_dialog_button_cancel" priority="LT">"Hủy"</string>
+    <string name="dtm_visual_dialog_button_confirm" priority="translator">"OK"</string>
+    <string name="dtm_visual_toast_connect_failed" priority="translator">"Không kết nối được."</string>
+    <string name="dtm_visual_toast_disconnect" priority="translator">"Đã ngắt kết nối."</string>
+    <string name="dtm_preview_float_dialog_message" priority="LT">Thoát bản xem trước?</string>
+    <string name="dtm_preview_control_button_description" priority="translator">Exit preview,button,double click to execute</string>
+    <string name="dtm_visual_control_button_description" priority="translator">Exit visual,button,double click to execute</string>
+    <string name="dtm_preview_dialog_button_confirm" priority="translator">"Thoát"</string>
+    <string name="dtm_preview_toast_failed" priority="translator">"Xem trước không thành công."</string>
+</resources>

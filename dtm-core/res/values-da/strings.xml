@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="dtm_visual_dialog_message" priority="LT">"Vil du afbryde forbindelsen til serveren?"</string>
+    <string name="dtm_visual_dialog_button_cancel" priority="LT">"Annuller"</string>
+    <string name="dtm_visual_dialog_button_confirm" priority="translator">"OK"</string>
+    <string name="dtm_visual_toast_connect_failed" priority="translator">"Kan ikke oprette forbindelse."</string>
+    <string name="dtm_visual_toast_disconnect" priority="translator">"Forbindelsen er afbrudt."</string>
+    <string name="dtm_preview_float_dialog_message" priority="LT">Afslut forhåndsvisning</string>
+    <string name="dtm_preview_control_button_description" priority="translator">Exit preview,button,double click to execute</string>
+    <string name="dtm_visual_control_button_description" priority="translator">Exit visual,button,double click to execute</string>
+    <string name="dtm_preview_dialog_button_confirm" priority="translator">"Afslut"</string>
+    <string name="dtm_preview_toast_failed" priority="translator">"Forhåndsvisning mislykkedes."</string>
+</resources>

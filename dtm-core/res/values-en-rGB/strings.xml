@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="dtm_visual_dialog_message" priority="LT">"Are you sure you want to disconnect from the server?"</string>
+    <string name="dtm_visual_dialog_button_cancel" priority="LT">"Cancel"</string>
+    <string name="dtm_visual_dialog_button_confirm" priority="LT">"OK"</string>
+    <string name="dtm_visual_toast_connect_failed" priority="translator">"Unable to connect."</string>
+    <string name="dtm_visual_toast_disconnect" priority="translator">"Disconnected."</string>
+    <string name="dtm_preview_float_dialog_message" priority="LT">Exit preview?</string>
+    <string name="dtm_preview_control_button_description" priority="translator">Exit preview,button,double click to execute</string>
+    <string name="dtm_visual_control_button_description" priority="translator">Exit visual,button,double click to execute</string>
+    <string name="dtm_preview_dialog_button_confirm" priority="translator">"Exit"</string>
+    <string name="dtm_preview_toast_failed" priority="translator">"Preview failed."</string>
+</resources>

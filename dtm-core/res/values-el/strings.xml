@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="dtm_visual_dialog_message" priority="LT">"Είστε σίγουροι ότι θέλετε να αποσυνδεθείτε από τον διακομιστή;"</string>
+    <string name="dtm_visual_dialog_button_cancel" priority="LT">"Ακύρωση"</string>
+    <string name="dtm_visual_dialog_button_confirm" priority="translator">"OK"</string>
+    <string name="dtm_visual_toast_connect_failed" priority="translator">"Δεν είναι δυνατή η σύνδεση."</string>
+    <string name="dtm_visual_toast_disconnect" priority="translator">"Αποσυνδέθηκε"</string>
+    <string name="dtm_preview_float_dialog_message" priority="LT">Έξοδος από την προεπισκόπηση;</string>
+    <string name="dtm_preview_control_button_description" priority="translator">Exit preview,button,double click to execute</string>
+    <string name="dtm_visual_control_button_description" priority="translator">Exit visual,button,double click to execute</string>
+    <string name="dtm_preview_dialog_button_confirm" priority="translator">"Έξοδος"</string>
+    <string name="dtm_preview_toast_failed" priority="translator">"Η προεπισκόπηση απέτυχε."</string>
+</resources>

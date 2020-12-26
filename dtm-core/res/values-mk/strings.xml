@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="dtm_visual_dialog_message" priority="LT">"Дали сте сигурни дека сакате да ја прекинете врската со серверот?"</string>
+    <string name="dtm_visual_dialog_button_cancel" priority="LT">"Откажи"</string>
+    <string name="dtm_visual_dialog_button_confirm" priority="translator">"ОК"</string>
+    <string name="dtm_visual_toast_connect_failed" priority="translator">"Не може да се поврзе."</string>
+    <string name="dtm_visual_toast_disconnect" priority="translator">"Прекината врска."</string>
+    <string name="dtm_preview_float_dialog_message" priority="LT">Да се излезе од прегледот?</string>
+    <string name="dtm_preview_control_button_description" priority="translator">Излезете од прегледот,копче,кликнете двапати за извршување</string>
+    <string name="dtm_visual_control_button_description" priority="translator">Излезете од визуелниот преглед,копче,кликнете двапати за извршување</string>
+    <string name="dtm_preview_dialog_button_confirm" priority="translator">"Излези"</string>
+    <string name="dtm_preview_toast_failed" priority="translator">"Прегледувањето не успеа."</string>
+</resources>

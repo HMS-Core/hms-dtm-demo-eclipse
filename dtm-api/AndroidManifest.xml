@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.huawei.hms.dtm.sdk"
+    android:versionCode="50100300"
+    android:versionName="5.1.0.300" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="28" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application>
+        <meta-data
+            android:name="com.huawei.hms.client.service.name:dtm-api"
+            android:value="dtm-api:5.1.0.300" />
+        <meta-data
+            android:name="com.huawei.hms.min_api_level:dtm-api:huawei_module_hwdtm"
+            android:value="1" />
+
+        <activity
+            android:name="com.huawei.hms.dtm.PreviewActivity"
+            android:exported="true"
+            android:noHistory="true" >
+            <meta-data
+                android:name="hwc-theme"
+                android:value="androidhwext:style/Theme.Emui" />
+
+            <intent-filter>
+                <data android:scheme="dtm.configuration.com.example.hmsdtmsample" />
+
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.huawei.hms.dtm.VisualActivity"
+            android:exported="true"
+            android:noHistory="true" >
+            <meta-data
+                android:name="hwc-theme"
+                android:value="androidhwext:style/Theme.Emui" />
+
+            <intent-filter>
+                <data android:scheme="dtm.visual.com.example.hmsdtmsample" />
+
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

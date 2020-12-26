@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="dtm_visual_dialog_message" priority="LT">"Haluatko varmasti katkaista yhteyden palvelimeen?"</string>
+    <string name="dtm_visual_dialog_button_cancel" priority="LT">"Peruuta"</string>
+    <string name="dtm_visual_dialog_button_confirm" priority="translator">"OK"</string>
+    <string name="dtm_visual_toast_connect_failed" priority="translator">"Ei pystytä yhdistämään."</string>
+    <string name="dtm_visual_toast_disconnect" priority="translator">"Yhteys katkaistu."</string>
+    <string name="dtm_preview_float_dialog_message" priority="LT">Poistutaanko esikatselusta?</string>
+    <string name="dtm_preview_control_button_description" priority="translator">Poistu esikatselusta, painike, suorita kaksoisnapsauttamalla</string>
+    <string name="dtm_visual_control_button_description" priority="translator">Poistu katselusta, painike, suorita kaksoisnapsauttamalla</string>
+    <string name="dtm_preview_dialog_button_confirm" priority="translator">"Poistu"</string>
+    <string name="dtm_preview_toast_failed" priority="translator">"Esikatselu epäonnistui."</string>
+</resources>

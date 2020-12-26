@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="dtm_visual_dialog_message" priority="LT">"Та серверээс холболтыг таслахыг үнэхээр хүсэж байна уу?"</string>
+    <string name="dtm_visual_dialog_button_cancel" priority="LT">"Цуцлах"</string>
+    <string name="dtm_visual_dialog_button_confirm" priority="translator">"ОК"</string>
+    <string name="dtm_visual_toast_connect_failed" priority="translator">"Холбогдох боломжгүй байна."</string>
+    <string name="dtm_visual_toast_disconnect" priority="translator">"Холболтыг тасарлаа."</string>
+    <string name="dtm_preview_float_dialog_message" priority="LT">Урьдчилан харахаас гарах уу?</string>
+    <string name="dtm_preview_control_button_description" priority="translator">Exit preview,button,double click to execute</string>
+    <string name="dtm_visual_control_button_description" priority="translator">Exit visual,button,double click to execute</string>
+    <string name="dtm_preview_dialog_button_confirm" priority="translator">"Гарах"</string>
+    <string name="dtm_preview_toast_failed" priority="translator">"Урьдчилан харах амжилтгүй боллоо."</string>
+</resources>

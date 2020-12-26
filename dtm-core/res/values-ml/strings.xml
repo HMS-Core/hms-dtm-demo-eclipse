@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="dtm_visual_dialog_message" priority="LT">"സെർവറിൽ നിന്ന് ഡിസ്കണക്ട് ചെയ്യണമെന്ന് തീർച്ചയാണോ?"</string>
+    <string name="dtm_visual_dialog_button_cancel" priority="LT">"റദ്ദാക്കുക"</string>
+    <string name="dtm_visual_dialog_button_confirm" priority="translator">"ശരി"</string>
+    <string name="dtm_visual_toast_connect_failed" priority="translator">"കണക്‌റ്റ് ചെയ്യാനാകുന്നില്ല."</string>
+    <string name="dtm_visual_toast_disconnect" priority="translator">"ഡിസ്‌കണക്‌ട് ചെയ്‌തു."</string>
+    <string name="dtm_preview_float_dialog_message" priority="LT">പ്രിവ്യൂ എക്‌സിറ്റ് ചെയ്യണോ?</string>
+    <string name="dtm_preview_control_button_description" priority="translator">Exit preview,button,double click to execute</string>
+    <string name="dtm_visual_control_button_description" priority="translator">Exit visual,button,double click to execute</string>
+    <string name="dtm_preview_dialog_button_confirm" priority="translator">"എക്സിറ്റ് ചെയ്യുക"</string>
+    <string name="dtm_preview_toast_failed" priority="translator">"പ്രിവ്യൂ പരാജയപ്പെട്ടു."</string>
+</resources>

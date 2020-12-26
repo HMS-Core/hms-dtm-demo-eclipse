@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="dtm_visual_dialog_message" priority="LT">"サーバーから切断しますか？"</string>
+    <string name="dtm_visual_dialog_button_cancel" priority="LT">"キャンセル"</string>
+    <string name="dtm_visual_dialog_button_confirm" priority="translator">"OK"</string>
+    <string name="dtm_visual_toast_connect_failed" priority="translator">"接続できません。"</string>
+    <string name="dtm_visual_toast_disconnect" priority="translator">"切断されました。"</string>
+    <string name="dtm_preview_float_dialog_message" priority="LT">プレビューを終了しますか？</string>
+    <string name="dtm_preview_control_button_description" priority="translator">Exit preview,button,double click to execute</string>
+    <string name="dtm_visual_control_button_description" priority="translator">Exit visual,button,double click to execute</string>
+    <string name="dtm_preview_dialog_button_confirm" priority="translator">"終了"</string>
+    <string name="dtm_preview_toast_failed" priority="translator">"プレビューに失敗しました。"</string>
+</resources>

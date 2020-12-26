@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="dtm_visual_dialog_message" priority="LT">"ଆପଣ ପ୍ରକୃତରେ ସର୍ଭରରୁ ସଂଯୋଗ ବିଚ୍ଛିନ୍ନ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?"</string>
+    <string name="dtm_visual_dialog_button_cancel" priority="LT">"ବାତିଲ୍ କରନ୍ତୁ"</string>
+    <string name="dtm_visual_dialog_button_confirm" priority="translator">"ଓକେ"</string>
+    <string name="dtm_visual_toast_connect_failed" priority="translator">"ସଂଯୋଗ କରିବାକୁ ଅସମର୍ଥ।"</string>
+    <string name="dtm_visual_toast_disconnect" priority="translator">"ସଂଯୋଗ ବିଚ୍ଛିନ୍ନ ହୋଇଛି।"</string>
+    <string name="dtm_preview_float_dialog_message" priority="LT">ପୂର୍ବାବଲୋକନ ପ୍ରସ୍ଥାନ କରିବେ?</string>
+    <string name="dtm_preview_control_button_description" priority="translator">Exit preview,button,double click to execute</string>
+    <string name="dtm_visual_control_button_description" priority="translator">Exit visual,button,double click to execute</string>
+    <string name="dtm_preview_dialog_button_confirm" priority="translator">"ପ୍ରସ୍ଥାନ କରନ୍ତୁ"</string>
+    <string name="dtm_preview_toast_failed" priority="translator">"ପୂର୍ବାବଲୋକନ ବିଫଳ ହେଲା।"</string>
+</resources>

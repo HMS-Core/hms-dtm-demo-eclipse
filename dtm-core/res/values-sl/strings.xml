@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="dtm_visual_dialog_message" priority="LT">"Ali ste prepričani, da želite prekiniti povezavo s strežnikom?"</string>
+    <string name="dtm_visual_dialog_button_cancel" priority="LT">"Prekliči"</string>
+    <string name="dtm_visual_dialog_button_confirm" priority="translator">"V redu"</string>
+    <string name="dtm_visual_toast_connect_failed" priority="translator">"Povezave ni mogoče vzpostaviti."</string>
+    <string name="dtm_visual_toast_disconnect" priority="translator">"Povezava je prekinjena."</string>
+    <string name="dtm_preview_float_dialog_message" priority="LT">Ali želite zapreti predogled?</string>
+    <string name="dtm_preview_control_button_description" priority="translator">Izhod iz predogleda, gumb, dvokliknite za izvedbo</string>
+    <string name="dtm_visual_control_button_description" priority="translator">Izhod iz prikaza, gumb, dvokliknite za izvedbo</string>
+    <string name="dtm_preview_dialog_button_confirm" priority="translator">"Zapri"</string>
+    <string name="dtm_preview_toast_failed" priority="translator">"Predogled ni uspel."</string>
+</resources>

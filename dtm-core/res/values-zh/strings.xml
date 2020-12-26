@@ -1,0 +1,12 @@
+<resources>
+    <string name="dtm_visual_dialog_message">是否退出连接？</string>
+    <string name="dtm_preview_float_dialog_message">是否退出预览？</string>
+    <string name="dtm_visual_dialog_button_cancel">取消</string>
+    <string name="dtm_visual_dialog_button_confirm">确定</string>
+    <string name="dtm_visual_toast_connect_failed">连接失败</string>
+    <string name="dtm_visual_toast_disconnect">连接已断开</string>
+    <string name="dtm_preview_control_button_description">退出预览,按钮,单指双击即可执行</string>
+    <string name="dtm_visual_control_button_description">退出可视化埋点,按钮,单指双击即可执行</string>
+    <string name="dtm_preview_dialog_button_confirm">退出</string>
+    <string name="dtm_preview_toast_failed">预览失败</string>
+</resources>

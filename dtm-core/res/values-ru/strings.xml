@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="dtm_visual_dialog_message" priority="LT">"Отключиться от сервера?"</string>
+    <string name="dtm_visual_dialog_button_cancel" priority="LT">"Отмена"</string>
+    <string name="dtm_visual_dialog_button_confirm" priority="translator">"OK"</string>
+    <string name="dtm_visual_toast_connect_failed" priority="translator">"Сбой подключения."</string>
+    <string name="dtm_visual_toast_disconnect" priority="translator">"Отключено."</string>
+    <string name="dtm_preview_float_dialog_message" priority="LT">Закрыть предпросмотр?</string>
+    <string name="dtm_preview_control_button_description" priority="translator">Кнопка закрытия предпросмотра, нажмите дважды для выполнения</string>
+    <string name="dtm_visual_control_button_description" priority="translator">Кнопка закрытия, нажмите дважды для выполнения</string>
+    <string name="dtm_preview_dialog_button_confirm" priority="translator">"Выход"</string>
+    <string name="dtm_preview_toast_failed" priority="translator">"Сбой предпросмотра."</string>
+</resources>

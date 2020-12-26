@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hms_abort" priority="translator">"停止"</string>
+    <string name="hms_abort_message" priority="translator">"停止下載？"</string>
+    <string name="hms_bindfaildlg_message" priority="translator">"%1$s 無法正常使用 HMS Core。請嘗試開啟「手機管理員」或「設定」，啟用 %2$s 的所有權限（「自動啟動」、「關聯啟動」等），並重試。"</string>
+    <string name="hms_cancel" priority="translator">"取消"</string>
+    <string name="hms_check_failure" priority="translator">"檢查 HMS Core 更新失敗。"</string>
+    <string name="hms_checking" priority="translator">"正在偵測新版本…"</string>
+    <string name="hms_confirm" priority="translator">"確定"</string>
+    <string name="hms_download_failure" priority="translator">"下載 HMS Core 安裝套件失敗。"</string>
+    <string name="hms_download_no_space" priority="translator">"可用空間不足。無法完成下載。"</string>
+    <string name="hms_download_retry" priority="translator">"下載 HMS Core 失敗。是否重試？"</string>
+    <string name="hms_downloading_loading" priority="LT">"正在下載"</string>
+    <string name="hms_install" priority="translator">"安裝"</string>
+    <string name="hms_install_message" priority="translator">"您尚未安裝 HMS Core，安裝之後才可使用此功能。是否安裝？"</string>
+    <string name="hms_retry" priority="translator">"重試"</string>
+    <string name="hms_update" priority="translator">"更新"</string>
+    <string name="hms_update_continue" priority="LT">"繼續下載"</string>
+    <string name="hms_update_message" priority="translator">"HMS Core 版本過舊，更新至最新版本才可使用此功能。是否更新？"</string>
+    <string name="hms_update_message_new" priority="LT">"該服務需安裝以下應用程式的最新版本才能使用：\n\n·%1$s"</string>
+    <string name="hms_update_nettype" priority="LT">"目前為非 Wi-Fi 網路。是否繼續下載？"</string>
+    <string name="hms_update_title" priority="translator">"HMS Core"</string>
+</resources>

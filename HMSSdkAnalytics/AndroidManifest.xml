@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.huawei.hms.analytics"
+    android:versionCode="50005301"
+    android:versionName="5.0.5.301" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="28" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA" />
+
+    <application>
+        <meta-data
+            android:name="com.huawei.hms.client.service.name:hianalytics"
+            android:value="hianalytics:5.0.5.301" />
+        <meta-data
+            android:name="com.huawei.hms.min_api_level:hianalytics:hianalytics"
+            android:value="1" />
+
+        <receiver
+            android:name="com.huawei.hms.analytics.receiver.HiAnalyticsSvcEvtReceiver"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="com.huawei.hms.analytics.pps.event" />
+            </intent-filter>
+        </receiver>
+    </application>
+
+</manifest>

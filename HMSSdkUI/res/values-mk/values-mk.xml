@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hms_abort" priority="translator">"Прекини"</string>
+    <string name="hms_abort_message" priority="translator">"Да се прекине преземањето?"</string>
+    <string name="hms_bindfaildlg_message" priority="translator">"%1$s не може да ја користи HMS Core. Активирајте го Оптимизатор (Администратор на телефон) или одете до Нагодување, овозможете ги сите дозволи за %2$s (вклучувајќи и автоматско активирање и секундарно активирање) и обидете се повторно."</string>
+    <string name="hms_cancel" priority="translator">"Откажи"</string>
+    <string name="hms_check_failure" priority="translator">"Проверката за ажурирања не е успешна."</string>
+    <string name="hms_checking" priority="translator">"Се проверуваат ажурирања..."</string>
+    <string name="hms_confirm" priority="translator">"ОК"</string>
+    <string name="hms_download_failure" priority="translator">"Преземањето на пакетот за HMS Core не успеа."</string>
+    <string name="hms_download_no_space" priority="translator">"Нема доволно слободен простор. Преземањето не може да се заврши."</string>
+    <string name="hms_download_retry" priority="translator">"Преземањето не е успешно. Ќе се обидете повторно?"</string>
+    <string name="hms_downloading_loading" priority="LT">"Се презема"</string>
+    <string name="hms_install" priority="translator">"Инсталирај"</string>
+    <string name="hms_install_message" priority="translator">"Мора да биде инсталирана HMS Core за да се користи оваа функција. Ќе ја инсталирате?"</string>
+    <string name="hms_retry" priority="translator">"Обиди се"</string>
+    <string name="hms_update" priority="translator">"Ажурирај"</string>
+    <string name="hms_update_continue" priority="LT">"Преземи"</string>
+    <string name="hms_update_message" priority="translator">"Ажурирајте на најновата верзија на HMS Core за да ја користите оваа карактеристика. Да се ажурира сега?"</string>
+    <string name="hms_update_message_new" priority="LT">"За оваа услуга потребна е најновата верзија од следнава апликација:\n\n%1$s"</string>
+    <string name="hms_update_nettype" priority="LT">"Нема поврзување Wi-Fi. Да се преземе преку користење мобилни податоци?"</string>
+    <string name="hms_update_title" priority="translator">"HMS Core"</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.huawei.agconnect.credential"
+    android:versionName="1.4.0.300" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="28"
+        tools:overrideLibrary="com.huawei.hms.analytics.connector" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application>
+        <service
+            android:name="com.huawei.agconnect.core.ServiceDiscovery"
+            android:exported="false" >
+            <meta-data
+                android:name="com.huawei.agconnect.credential.CredentialServiceRegistrar:500"
+                android:value="com.huawei.agconnect.core.ServiceRegistrar" />
+        </service>
+
+        <uses-library
+            android:name="org.apache.http.legacy"
+            android:required="false" />
+    </application>
+
+</manifest>

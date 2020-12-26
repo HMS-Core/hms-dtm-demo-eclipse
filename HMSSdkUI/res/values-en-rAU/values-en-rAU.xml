@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hms_bindfaildlg_message" priority="LT">"%1$s is unable to use HMS Core. Launch Optimiser (Phone Manager) or go to Settings, enable all permissions for %2$s (including auto-launch and secondary launch), and try again."</string>
+</resources>

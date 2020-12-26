@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="dtm_visual_dialog_message" priority="LT">"འབྲེལ་མཐུད་ནས་ཕྱིར་འཐེན་བྱེད་དམ།"</string>
+    <string name="dtm_visual_dialog_button_cancel" priority="LT">"འདོར་བ།"</string>
+    <string name="dtm_visual_dialog_button_confirm" priority="LT">"གཏན་འཁེལ།"</string>
+    <string name="dtm_visual_toast_connect_failed" priority="translator">"འབྲེལ་མཐུད་བྱེད་མ་ཐུབ།"</string>
+    <string name="dtm_visual_toast_disconnect" priority="translator">"འབྲེལ་མཐུད་ཆད་ཟིན།"</string>
+    <string name="dtm_preview_float_dialog_message" priority="LT">སྔོན་བལྟ་ལས་ཕྱིར་འཐེན་བྱེད་དམ།</string>
+    <string name="dtm_preview_control_button_description" priority="translator">སྔོན་བལྟ་ཕྱིར་འཐེན་པར་མཐེབ་གནོན་གནན་པ་དང་། མཛུབ་མོ་རྐྱང་བས་ཉིས་རྡེབ་བྱས་ཚེ་ལག་བསྟར་བྱ་ཐུབ།</string>
+    <string name="dtm_visual_control_button_description" priority="translator">མཐོང་རུང་ཅན་གྱི་སྦས་ཚེག་ཕྱིར་འཐེན་པར་མཐེབ་གནོན་གནན་པ་དང་། མཛུབ་མོ་རྐྱང་བས་ཉིས་རྡེབ་བྱས་ཚེ་ལག་བསྟར་བྱ་ཐུབ།</string>
+    <string name="dtm_preview_dialog_button_confirm" priority="translator">"ཕྱིར་འཐེན།"</string>
+    <string name="dtm_preview_toast_failed" priority="translator">"སྔོན་བལྟ་བྱེད་མ་ཐུབ།"</string>
+</resources>

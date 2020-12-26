@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="dtm_visual_dialog_message" priority="LT">"Är du säker på att du vill koppla bort från servern?"</string>
+    <string name="dtm_visual_dialog_button_cancel" priority="LT">"Avbryt"</string>
+    <string name="dtm_visual_dialog_button_confirm" priority="translator">"OK"</string>
+    <string name="dtm_visual_toast_connect_failed" priority="translator">"Kan inte ansluta."</string>
+    <string name="dtm_visual_toast_disconnect" priority="translator">"Frånkopplad."</string>
+    <string name="dtm_preview_float_dialog_message" priority="LT">Vill du avsluta förhandsgranskningen?</string>
+    <string name="dtm_preview_control_button_description" priority="translator">Avsluta förhandsgranskning,knapp,dubbelklicka för att köra</string>
+    <string name="dtm_visual_control_button_description" priority="translator">Avsluta visuell,knapp,dubbelklicka för att köra</string>
+    <string name="dtm_preview_dialog_button_confirm" priority="translator">"Avsluta"</string>
+    <string name="dtm_preview_toast_failed" priority="translator">"Kunde inte förhandsgranska."</string>
+</resources>

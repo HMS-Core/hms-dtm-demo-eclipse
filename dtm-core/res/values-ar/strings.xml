@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="dtm_visual_dialog_message" priority="LT">"هل حقًا تريد قطع الاتصال بالخادم؟"</string>
+    <string name="dtm_visual_dialog_button_cancel" priority="LT">"إلغاء"</string>
+    <string name="dtm_visual_dialog_button_confirm" priority="translator">"موافق"</string>
+    <string name="dtm_visual_toast_connect_failed" priority="translator">"تعذر الاتصال"</string>
+    <string name="dtm_visual_toast_disconnect" priority="translator">"انقطع الاتصال"</string>
+    <string name="dtm_preview_float_dialog_message" priority="LT">هل تريد الخروج من المعاينة؟</string>
+    <string name="dtm_preview_control_button_description" priority="translator">إنهاء المعاينة، الزر، النقر المزدوج للتنفيذ</string>
+    <string name="dtm_visual_control_button_description" priority="translator">الخروج من الوضع المرئي، الزر، النقر المزدوج للتنفيذ</string>
+    <string name="dtm_preview_dialog_button_confirm" priority="translator">"خروج"</string>
+    <string name="dtm_preview_toast_failed" priority="translator">"تعذرت المعاينة"</string>
+</resources>

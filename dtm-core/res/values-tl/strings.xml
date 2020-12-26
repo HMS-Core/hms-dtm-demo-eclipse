@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="dtm_visual_dialog_message" priority="LT">"Sigurado ka bang gusto mong magdiskonekta sa server?"</string>
+    <string name="dtm_visual_dialog_button_cancel" priority="LT">"Kanselahin"</string>
+    <string name="dtm_visual_dialog_button_confirm" priority="translator">"OK"</string>
+    <string name="dtm_visual_toast_connect_failed" priority="translator">"Hindi makakonekta."</string>
+    <string name="dtm_visual_toast_disconnect" priority="translator">"Nadiskonekta."</string>
+    <string name="dtm_preview_float_dialog_message" priority="LT">Lumabas sa preview?</string>
+    <string name="dtm_preview_control_button_description" priority="translator">Lumabas sa preview, button, i-double click para isagawa</string>
+    <string name="dtm_visual_control_button_description" priority="translator">Lumabas sa visual, button, i-double click para isagawa</string>
+    <string name="dtm_preview_dialog_button_confirm" priority="translator">"Lumabas"</string>
+    <string name="dtm_preview_toast_failed" priority="translator">"Hindi na-preview."</string>
+</resources>

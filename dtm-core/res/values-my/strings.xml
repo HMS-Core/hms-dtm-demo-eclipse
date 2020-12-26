@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="dtm_visual_dialog_message" priority="LT">"ဆာဗာနှင့် ချိတ်ဆက်ထားမှုမှ ဖြုတ်လိုသည်မှာ သေချာပါသလား။"</string>
+    <string name="dtm_visual_dialog_button_cancel" priority="LT">"မလုပ်ပါ"</string>
+    <string name="dtm_visual_dialog_button_confirm" priority="translator">"အိုကေ"</string>
+    <string name="dtm_visual_toast_connect_failed" priority="translator">"ချိတ်ဆက်၍ မရပါ။"</string>
+    <string name="dtm_visual_toast_disconnect" priority="translator">"ချိတ်ဆက်မှု ဖြုတ်ထားပြီး။"</string>
+    <string name="dtm_preview_float_dialog_message" priority="LT">နမူနာ ကြည့်ရှုမှုမှ ထွက်မည်လား။</string>
+    <string name="dtm_preview_control_button_description" priority="translator">ကြိုတင်ကြည့်ရှုမှုမှ ထွက်ပါ၊ ခလုတ်၊ ဆောင်ရွက်ရန် နှစ်ချက်နှိပ်</string>
+    <string name="dtm_visual_control_button_description" priority="translator">မြင်ကွင်းမှ ထွက်ပါ၊ ခလုတ်၊ ဆောင်ရွက်ရန် နှစ်ချက်နှိပ်</string>
+    <string name="dtm_preview_dialog_button_confirm" priority="translator">"ထွက်ရန်"</string>
+    <string name="dtm_preview_toast_failed" priority="translator">"ကြိုတင် ကြည့်ရှုမှု မအောင်မြင်ခဲ့ပါ။"</string>
+</resources>
