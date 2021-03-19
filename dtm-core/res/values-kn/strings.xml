@@ -2,12 +2,12 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="dtm_visual_dialog_message" priority="LT">"ನೀವು ಖಂಡಿತವಾಗಿಯೂ ಸರ್ವರ್‌ನಿಂದ ಸಂಪರ್ಕ ಕಡಿತಗೊಳಿಸಲು ಬಯಸುವಿರಾ?"</string>
     <string name="dtm_visual_dialog_button_cancel" priority="LT">"ರದ್ದುಗೊಳಿಸಿ"</string>
-    <string name="dtm_visual_dialog_button_confirm" priority="translator">"ಸರಿ"</string>
+    <string name="dtm_visual_dialog_button_confirm" priority="LT">"ಸರಿ"</string>
     <string name="dtm_visual_toast_connect_failed" priority="translator">"ಸಂಪರ್ಕಜೋಡಿಸಲು ಸಾಧ್ಯವಾಗುತ್ತಿಲ್ಲ."</string>
     <string name="dtm_visual_toast_disconnect" priority="translator">"ಸಂಪರ್ಕ ಕಡಿತಗೊಂಡಿದೆ."</string>
     <string name="dtm_preview_float_dialog_message" priority="LT">ಪೂರ್ವವೀಕ್ಷಣೆಯಿಂದ ನಿರ್ಗಮಿಸಬೇಕೇ?</string>
     <string name="dtm_preview_control_button_description" priority="translator">Exit preview,button,double click to execute</string>
     <string name="dtm_visual_control_button_description" priority="translator">Exit visual,button,double click to execute</string>
-    <string name="dtm_preview_dialog_button_confirm" priority="translator">"ನಿರ್ಗಮಿಸಿ"</string>
+    <string name="dtm_preview_dialog_button_confirm" priority="LT">"ನಿರ್ಗಮಿಸಿ"</string>
     <string name="dtm_preview_toast_failed" priority="translator">"ಮುನ್ನೋಟ ವಿಫಲವಾಗಿದೆ."</string>
 </resources>

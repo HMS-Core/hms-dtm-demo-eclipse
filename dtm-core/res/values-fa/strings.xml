@@ -2,7 +2,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="dtm_visual_dialog_message" priority="LT">"مطمئن هستید که می‌خواهید اتصال به سرور را قطع کنید؟"</string>
     <string name="dtm_visual_dialog_button_cancel" priority="LT">"لغو"</string>
-    <string name="dtm_visual_dialog_button_confirm" priority="translator">"تأييد"</string>
+    <string name="dtm_visual_dialog_button_confirm" priority="LT">"تأیید"</string>
     <string name="dtm_visual_toast_connect_failed" priority="translator">"برقراری اتصال امکان‌پذیر نیست."</string>
     <string name="dtm_visual_toast_disconnect" priority="translator">"اتصال قطع شد."</string>
     <string name="dtm_preview_float_dialog_message" priority="LT">از پیش‌نمایش خارج می‌شوید؟</string>

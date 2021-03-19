@@ -2,12 +2,12 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="dtm_visual_dialog_message" priority="LT">"Desligar do servidor?"</string>
     <string name="dtm_visual_dialog_button_cancel" priority="LT">"Cancelar"</string>
-    <string name="dtm_visual_dialog_button_confirm" priority="translator">"OK"</string>
+    <string name="dtm_visual_dialog_button_confirm" priority="LT">"OK"</string>
     <string name="dtm_visual_toast_connect_failed" priority="translator">"Não é possível estabelecer ligação."</string>
     <string name="dtm_visual_toast_disconnect" priority="translator">"Falha na ligação."</string>
     <string name="dtm_preview_float_dialog_message" priority="LT">Sair da pré-visualização?</string>
     <string name="dtm_preview_control_button_description" priority="translator">Sair da pré-visualização, botão, clique duplo para executar</string>
     <string name="dtm_visual_control_button_description" priority="translator">Sair da visualização, botão, clique duplo para executar</string>
-    <string name="dtm_preview_dialog_button_confirm" priority="translator">"Sair"</string>
+    <string name="dtm_preview_dialog_button_confirm" priority="LT">"Sair"</string>
     <string name="dtm_preview_toast_failed" priority="translator">"Falha ao pré-visualizar."</string>
 </resources>

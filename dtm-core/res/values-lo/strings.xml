@@ -2,12 +2,12 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="dtm_visual_dialog_message" priority="LT">"ທ່ານແນ່ໃຈບໍ່ວ່າທ່ານຕ້ອງການຕັດ​​ການເຊື່ອມ​ຕໍ່​​ຈາກ​ເຊີບ​ເວີ?"</string>
     <string name="dtm_visual_dialog_button_cancel" priority="LT">"ຍົກ​ເລີກ"</string>
-    <string name="dtm_visual_dialog_button_confirm" priority="translator">"​ຕົກ​ລົງ"</string>
+    <string name="dtm_visual_dialog_button_confirm" priority="LT">"​ຕົກ​ລົງ"</string>
     <string name="dtm_visual_toast_connect_failed" priority="translator">"ບໍ່ສາມາດເຊື່ອມຕໍ່ໄດ້."</string>
     <string name="dtm_visual_toast_disconnect" priority="translator">"ຕັດ​ການເຊື່ອມຕໍ່ແລ້ວ."</string>
     <string name="dtm_preview_float_dialog_message" priority="LT">ອອກ​ການ​ເບິ່ງ​ຕົວ​ຢ່າງ​ບໍ?</string>
     <string name="dtm_preview_control_button_description" priority="translator">ອອກຈາກການ​ເບິ່ງ​ຕົວ​ຢ່າງ, ປຸ່ມ, ຄ​ລິກ​ສອງ​ເທື່ອ​ເພື່ອ​ດຳ​ເນີນ​ການ</string>
     <string name="dtm_visual_control_button_description" priority="translator">ອອກ​ຈາກ​ຮູບ​ພາບ, ປຸ່ມ, ຄ​ລິກ​ສອງ​ເທື່ອ​ເພື່ອ​ດຳ​ເນີນ​ການ</string>
-    <string name="dtm_preview_dialog_button_confirm" priority="translator">"ອອກ"</string>
+    <string name="dtm_preview_dialog_button_confirm" priority="LT">"ອອກ"</string>
     <string name="dtm_preview_toast_failed" priority="translator">"ການ​ເບິ່ງຕົວ​ຢ່າງບໍ່​ສຳ​ເລັດ."</string>
 </resources>

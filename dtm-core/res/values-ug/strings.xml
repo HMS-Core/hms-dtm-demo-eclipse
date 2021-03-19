@@ -8,6 +8,6 @@
     <string name="dtm_preview_float_dialog_message" priority="LT">كۆرەكتىن چېكىنەمسىز؟</string>
     <string name="dtm_preview_control_button_description" priority="translator">كۆرەكتىن چېكىنىش كۇنۇپكىسى، بىر بارماقتا قوش چېكىڭ</string>
     <string name="dtm_visual_control_button_description" priority="translator">كۆرۈنۈشتىن چېكىنىش كۇنۇپكىسى، بىر بارماقتا قوش چېكىڭ</string>
-    <string name="dtm_preview_dialog_button_confirm" priority="translator">"چېكىنىش"</string>
-    <string name="dtm_preview_toast_failed" priority="translator">"كۆرەك يۈكلەنمىدى."</string>
+    <string name="dtm_preview_dialog_button_confirm" priority="LT">"چېكىنىش"</string>
+    <string name="dtm_preview_toast_failed" priority="LT">"كۆرەك يۈكلەنمىدى."</string>
 </resources>

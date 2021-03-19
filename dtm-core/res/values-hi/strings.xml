@@ -2,12 +2,12 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="dtm_visual_dialog_message" priority="LT">"क्या आप वाकई सर्वर से डिस्कनेक्ट करना चाहते हैं?"</string>
     <string name="dtm_visual_dialog_button_cancel" priority="LT">"रद्द करें"</string>
-    <string name="dtm_visual_dialog_button_confirm" priority="translator">"ठीक"</string>
+    <string name="dtm_visual_dialog_button_confirm" priority="LT">"ठीक"</string>
     <string name="dtm_visual_toast_connect_failed" priority="translator">"कनेक्ट करने में असमर्थ।"</string>
     <string name="dtm_visual_toast_disconnect" priority="translator">"डिस्कनेक्ट किया गया।"</string>
     <string name="dtm_preview_float_dialog_message" priority="LT">पूर्वावलोकन से बाहर निकलें?</string>
     <string name="dtm_preview_control_button_description" priority="translator">पूर्वावलोकन से बाहर निकलें, बटन, निष्पादित करने के लिए दोहरा क्लिक करें</string>
     <string name="dtm_visual_control_button_description" priority="translator">विज़ुअल से बाहर निकलें, बटन, निष्पादित करने के लिए क्लिक करें</string>
-    <string name="dtm_preview_dialog_button_confirm" priority="translator">"बाहर निकलें"</string>
+    <string name="dtm_preview_dialog_button_confirm" priority="LT">"बाहर निकलें"</string>
     <string name="dtm_preview_toast_failed" priority="translator">"पूर्वावलोकन विफल हुआ।"</string>
 </resources>

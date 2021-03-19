@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.huawei.hms.dtm.sdk"
-    android:versionCode="50100300"
-    android:versionName="5.1.0.300" >
+    android:versionCode="50200300"
+    android:versionName="5.2.0.300" >
 
     <uses-sdk
         android:minSdkVersion="19"
-        android:targetSdkVersion="28" />
+        android:targetSdkVersion="29" />
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
@@ -14,7 +14,7 @@
     <application>
         <meta-data
             android:name="com.huawei.hms.client.service.name:dtm-api"
-            android:value="dtm-api:5.1.0.300" />
+            android:value="dtm-api:5.2.0.300" />
         <meta-data
             android:name="com.huawei.hms.min_api_level:dtm-api:huawei_module_hwdtm"
             android:value="1" />

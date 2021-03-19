@@ -2,12 +2,12 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="dtm_visual_dialog_message" priority="LT">"சேவையகத்திலிருந்து இணைப்பைத் துண்டிக்க விரும்புகிறீர்களா?"</string>
     <string name="dtm_visual_dialog_button_cancel" priority="LT">"ரத்து"</string>
-    <string name="dtm_visual_dialog_button_confirm" priority="translator">"சரி"</string>
+    <string name="dtm_visual_dialog_button_confirm" priority="LT">"சரி"</string>
     <string name="dtm_visual_toast_connect_failed" priority="translator">"இணைக்க முடியவில்லை."</string>
     <string name="dtm_visual_toast_disconnect" priority="translator">"துண்டிக்கப்பட்டது."</string>
     <string name="dtm_preview_float_dialog_message" priority="LT">முன்னோட்டத்திலிருந்து வெளியேறவா?</string>
     <string name="dtm_preview_control_button_description" priority="translator">Exit preview,button,double click to execute</string>
     <string name="dtm_visual_control_button_description" priority="translator">Exit visual,button,double click to execute</string>
-    <string name="dtm_preview_dialog_button_confirm" priority="translator">"வெளியேறு"</string>
+    <string name="dtm_preview_dialog_button_confirm" priority="LT">"வெளியேறு"</string>
     <string name="dtm_preview_toast_failed" priority="translator">"முன்னோட்டம் தோல்வி."</string>
 </resources>

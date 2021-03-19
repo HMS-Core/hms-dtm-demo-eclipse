@@ -2,12 +2,12 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="dtm_visual_dialog_message" priority="translator">"እርግጠኛ ነዎት መለያየት ይፈልጋሉ?"</string>
     <string name="dtm_visual_dialog_button_cancel" priority="translator">"ይቅር"</string>
-    <string name="dtm_visual_dialog_button_confirm" priority="translator">"እሺ"</string>
+    <string name="dtm_visual_dialog_button_confirm" priority="LT">"እሺ"</string>
     <string name="dtm_visual_toast_connect_failed" priority="translator">"መገናኘት አልተቻለም።"</string>
     <string name="dtm_visual_toast_disconnect" priority="translator">"ተለያይተዋል።"</string>
     <string name="dtm_preview_float_dialog_message" priority="LT">ከቅድመ-እይታ ይወጣሉ?</string>
     <string name="dtm_preview_control_button_description" priority="translator">ከቅድመ-እይታ ውጣ፣አዝራር፣ለማስፈጸም ሁለቴ ጠቅ ያድርጉ</string>
     <string name="dtm_visual_control_button_description" priority="translator">ከምስል ውጣ፣አዝራር፣ለማስፈጸም ሁለቴ ጠቅ ያድርጉ</string>
-    <string name="dtm_preview_dialog_button_confirm" priority="translator">"ውጣ"</string>
+    <string name="dtm_preview_dialog_button_confirm" priority="LT">"ውጣ"</string>
     <string name="dtm_preview_toast_failed" priority="translator">"ቅድመ እይታ አልተሳካም።"</string>
 </resources>

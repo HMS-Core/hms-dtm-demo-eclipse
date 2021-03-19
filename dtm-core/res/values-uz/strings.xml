@@ -2,12 +2,12 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="dtm_visual_dialog_message" priority="LT">"Server bilan aloqani uzasizmi?"</string>
     <string name="dtm_visual_dialog_button_cancel" priority="LT">"Bekor qilish"</string>
-    <string name="dtm_visual_dialog_button_confirm" priority="translator">"OK"</string>
+    <string name="dtm_visual_dialog_button_confirm" priority="LT">"OK"</string>
     <string name="dtm_visual_toast_connect_failed" priority="translator">"Ulanmadi."</string>
     <string name="dtm_visual_toast_disconnect" priority="translator">"Aloqa uzildi."</string>
     <string name="dtm_preview_float_dialog_message" priority="LT">Razm solish ekranidan chiqasizmi?</string>
     <string name="dtm_preview_control_button_description" priority="translator">Tanishuv versiyasidan chiqish,tugma,ishga tushirish uchun ikki marta bosing</string>
     <string name="dtm_visual_control_button_description" priority="translator">Grafikdan chiqish,tugma,ishga tushirish uchun ikki marta bosing</string>
-    <string name="dtm_preview_dialog_button_confirm" priority="translator">"Chiqish"</string>
+    <string name="dtm_preview_dialog_button_confirm" priority="LT">"Chiqish"</string>
     <string name="dtm_preview_toast_failed" priority="translator">"Razm solish amalga oshmadi."</string>
 </resources>

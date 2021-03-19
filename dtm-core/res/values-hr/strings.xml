@@ -8,6 +8,6 @@
     <string name="dtm_preview_float_dialog_message" priority="LT">Želite li izaći iz pretpregleda?</string>
     <string name="dtm_preview_control_button_description" priority="translator">Izlaz iz pretpregleda, gumb, dvostruki klik za izvršavanje</string>
     <string name="dtm_visual_control_button_description" priority="translator">Izlaz iz prikaza, gumb, dvostruki klik za izvršavanje</string>
-    <string name="dtm_preview_dialog_button_confirm" priority="translator">"Izlaz"</string>
+    <string name="dtm_preview_dialog_button_confirm" priority="LT">"Izlaz"</string>
     <string name="dtm_preview_toast_failed" priority="translator">"Pretpregled nije uspio."</string>
 </resources>

@@ -2,12 +2,12 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="dtm_visual_dialog_message" priority="LT">"Sunucu bağlantısını kesmek istediğinizden emin misiniz?"</string>
     <string name="dtm_visual_dialog_button_cancel" priority="LT">"İptal"</string>
-    <string name="dtm_visual_dialog_button_confirm" priority="translator">"Tamam"</string>
+    <string name="dtm_visual_dialog_button_confirm" priority="LT">"Tamam"</string>
     <string name="dtm_visual_toast_connect_failed" priority="translator">"Bağlanılamıyor."</string>
     <string name="dtm_visual_toast_disconnect" priority="translator">"Bağlantı kesildi."</string>
     <string name="dtm_preview_float_dialog_message" priority="LT">Ön izlemeden çıkılsın mı?</string>
     <string name="dtm_preview_control_button_description" priority="translator">Ön izlemeden çık,düğme,yürütmek için çift tıkla</string>
     <string name="dtm_visual_control_button_description" priority="translator">Görselden çık,düğme,yürütmek için çift tıkla</string>
-    <string name="dtm_preview_dialog_button_confirm" priority="translator">"Çıkış"</string>
+    <string name="dtm_preview_dialog_button_confirm" priority="LT">"Çıkış"</string>
     <string name="dtm_preview_toast_failed" priority="translator">"Ön izleme başarısız."</string>
 </resources>

@@ -2,12 +2,12 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="dtm_visual_dialog_message" priority="LT">"کیا آپ واقعی سرور سے منقطع ہونا چاہتے ہیں؟"</string>
     <string name="dtm_visual_dialog_button_cancel" priority="LT">"منسوخ کریں"</string>
-    <string name="dtm_visual_dialog_button_confirm" priority="translator">"ٹھیک ہے"</string>
+    <string name="dtm_visual_dialog_button_confirm" priority="LT">"ٹھیک ہے"</string>
     <string name="dtm_visual_toast_connect_failed" priority="translator">"مربوط ہونے سے قاصر۔"</string>
     <string name="dtm_visual_toast_disconnect" priority="translator">"منقطع کردہ۔"</string>
     <string name="dtm_preview_float_dialog_message" priority="LT">پیش نظارہ سے خارج ہوں؟</string>
     <string name="dtm_preview_control_button_description" priority="translator">\u200fExit preview,button,double click to execute</string>
     <string name="dtm_visual_control_button_description" priority="translator">\u200fExit visual,button,double click to execute</string>
-    <string name="dtm_preview_dialog_button_confirm" priority="translator">"خارج ہوں"</string>
-    <string name="dtm_preview_toast_failed" priority="translator">"پیش منظر ناکام ہو گیا۔"</string>
+    <string name="dtm_preview_dialog_button_confirm" priority="LT">"خارج ہوں"</string>
+    <string name="dtm_preview_toast_failed" priority="LT">"پیش منظر ناکام ہو گیا۔"</string>
 </resources>

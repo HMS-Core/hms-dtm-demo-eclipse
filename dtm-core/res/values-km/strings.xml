@@ -2,12 +2,12 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="dtm_visual_dialog_message" priority="LT">"តើអ្នកប្រាកដទេថាចង់ផ្ដាច់ពី​ម៉ាស៊ីនមេ?"</string>
     <string name="dtm_visual_dialog_button_cancel" priority="LT">"បោះបង់"</string>
-    <string name="dtm_visual_dialog_button_confirm" priority="translator">"យល់ព្រម"</string>
+    <string name="dtm_visual_dialog_button_confirm" priority="LT">"យល់ព្រម"</string>
     <string name="dtm_visual_toast_connect_failed" priority="translator">"មិនអាចភ្ជាប់បានទេ។"</string>
     <string name="dtm_visual_toast_disconnect" priority="translator">"បានផ្ដាច់។"</string>
     <string name="dtm_preview_float_dialog_message" priority="LT">ចាកចេញពី​ការមើលជាមុនឬ?</string>
     <string name="dtm_preview_control_button_description" priority="translator">ចាកចេញពី​ការមើលជាមុន ប៊ូតុង ចុចពីរដងដើម្បីធ្វើប្រតិបត្តិការ</string>
     <string name="dtm_visual_control_button_description" priority="translator">ចាកចេញពី​រូប ប៊ូតុង ចុចពីរដងដើម្បីធ្វើប្រតិបត្តិការ</string>
-    <string name="dtm_preview_dialog_button_confirm" priority="translator">"ចាកចេញ"</string>
+    <string name="dtm_preview_dialog_button_confirm" priority="LT">"ចាកចេញ"</string>
     <string name="dtm_preview_toast_failed" priority="translator">"ការមើលសាកល្បង​បានបរាជ័យ។"</string>
 </resources>

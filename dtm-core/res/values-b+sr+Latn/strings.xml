@@ -2,7 +2,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="dtm_visual_dialog_message" priority="LT">"Da li zaista želite da prekinete vezu sa serverom?"</string>
     <string name="dtm_visual_dialog_button_cancel" priority="LT">"Otkaži"</string>
-    <string name="dtm_visual_dialog_button_confirm" priority="translator">"U REDU"</string>
+    <string name="dtm_visual_dialog_button_confirm" priority="LT">"U REDU"</string>
     <string name="dtm_visual_toast_connect_failed" priority="translator">"Povezivanje nije moguće."</string>
     <string name="dtm_visual_toast_disconnect" priority="translator">"Veza je prekinuta."</string>
     <string name="dtm_preview_float_dialog_message" priority="LT">Izaći iz pregleda?</string>

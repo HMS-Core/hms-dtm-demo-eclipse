@@ -2,7 +2,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="dtm_visual_dialog_message" priority="LT">"Me momotu mai i te tūmau?"</string>
     <string name="dtm_visual_dialog_button_cancel" priority="LT">"Whakakore"</string>
-    <string name="dtm_visual_dialog_button_confirm" priority="translator">"ĀE"</string>
+    <string name="dtm_visual_dialog_button_confirm" priority="LT">"ĀE"</string>
     <string name="dtm_visual_toast_connect_failed" priority="translator">"Tē taea te tūhono."</string>
     <string name="dtm_visual_toast_disconnect" priority="translator">"Kua momotu."</string>
     <string name="dtm_preview_float_dialog_message" priority="LT">Putaatu i arokite?</string>

@@ -2,7 +2,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="dtm_visual_dialog_message" priority="LT">"Una hakika unataka kutenganisha na seva?"</string>
     <string name="dtm_visual_dialog_button_cancel" priority="LT">"Ghairi"</string>
-    <string name="dtm_visual_dialog_button_confirm" priority="translator">"SAWA"</string>
+    <string name="dtm_visual_dialog_button_confirm" priority="LT">"SAWA"</string>
     <string name="dtm_visual_toast_connect_failed" priority="translator">"Haikuweza kuunganisha."</string>
     <string name="dtm_visual_toast_disconnect" priority="translator">"Imetenganishwa."</string>
     <string name="dtm_preview_float_dialog_message" priority="LT">Toka kwenye kihakiki?</string>

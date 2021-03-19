@@ -2,7 +2,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="dtm_visual_dialog_message" priority="LT">"Bạn có chắc bạn muốn ngắt kết nối với máy chủ?"</string>
     <string name="dtm_visual_dialog_button_cancel" priority="LT">"Hủy"</string>
-    <string name="dtm_visual_dialog_button_confirm" priority="translator">"OK"</string>
+    <string name="dtm_visual_dialog_button_confirm" priority="LT">"OK"</string>
     <string name="dtm_visual_toast_connect_failed" priority="translator">"Không kết nối được."</string>
     <string name="dtm_visual_toast_disconnect" priority="translator">"Đã ngắt kết nối."</string>
     <string name="dtm_preview_float_dialog_message" priority="LT">Thoát bản xem trước?</string>
