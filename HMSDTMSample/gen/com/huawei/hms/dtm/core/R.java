@@ -13,12 +13,12 @@ public final class R {
 	public static final class id {
 		public static final int dtm_preview_control_button_id = 0x7f060001;
 		public static final int dtm_visual_control_button_id = 0x7f060000;
-		public static final int hw_dtm_dialog_cancel_tv = 0x7f06001d;
-		public static final int hw_dtm_dialog_content_tv = 0x7f06001c;
-		public static final int hw_dtm_dialog_ok_tv = 0x7f06001e;
+		public static final int hw_dtm_dialog_cancel_tv = 0x7f06001f;
+		public static final int hw_dtm_dialog_content_tv = 0x7f06001e;
+		public static final int hw_dtm_dialog_ok_tv = 0x7f060020;
 	}
 	public static final class layout {
-		public static final int hw_dtm_dialog = 0x7f040009;
+		public static final int hw_dtm_dialog = 0x7f04000a;
 	}
 	public static final class mipmap {
 		public static final int dtm_preview_control_button = 0x7f030000;

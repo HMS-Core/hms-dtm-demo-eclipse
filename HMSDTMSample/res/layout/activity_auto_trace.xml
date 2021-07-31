@@ -92,6 +92,18 @@
             android:textSize="16sp"
             android:background="@drawable/shape_corner_rectangle"
             android:textAllCaps="false" />
+        
+        <Button android:id="@+id/web_view_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+	        android:layout_marginLeft="30dp"
+	        android:layout_marginRight="30dp"
+            android:onClick="onAutoTraceBtnClick"
+            android:text="@string/auto_trace_web_view"
+            android:textSize="16sp"
+            android:background="@drawable/shape_corner_rectangle"
+            android:textAllCaps="false" />
     </LinearLayout>
 
 </ScrollView>

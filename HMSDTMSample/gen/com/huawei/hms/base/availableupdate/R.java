@@ -13,15 +13,15 @@ public final class R {
 		public static final int emui_color_gray_7 = 0x7f080008;
 	}
 	public static final class id {
-		public static final int download_info_progress = 0x7f06001b;
-		public static final int enable_service_text = 0x7f06000b;
-		public static final int hms_message_text = 0x7f060018;
-		public static final int hms_progress_bar = 0x7f06001a;
-		public static final int hms_progress_text = 0x7f060019;
+		public static final int download_info_progress = 0x7f06001d;
+		public static final int enable_service_text = 0x7f06000c;
+		public static final int hms_message_text = 0x7f06001a;
+		public static final int hms_progress_bar = 0x7f06001c;
+		public static final int hms_progress_text = 0x7f06001b;
 	}
 	public static final class layout {
 		public static final int activity_endisable_service = 0x7f040001;
-		public static final int hms_download_progress = 0x7f040008;
+		public static final int hms_download_progress = 0x7f040009;
 	}
 	public static final class string {
 		public static final int hms_abort = 0x7f070023;

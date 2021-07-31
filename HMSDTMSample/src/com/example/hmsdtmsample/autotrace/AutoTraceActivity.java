@@ -54,6 +54,9 @@ public class AutoTraceActivity extends Activity {
 	        case R.id.tab_host_btn:
                 onTabHostClick();
                 break;
+	        case R.id.web_view_btn:
+	        	onWebViewClick();
+	        	break;
             default:
                 break;
         }
@@ -85,5 +88,9 @@ public class AutoTraceActivity extends Activity {
     
     private void onTabHostClick() {
         startActivity(new Intent(this,TabHostActivity.class));
+    }
+    
+    private void onWebViewClick() {
+    	startActivity(new Intent(this,WebViewActivity.class));
     }
 }

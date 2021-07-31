@@ -8,6 +8,6 @@ package com.huawei.hms.dtm.sdk;
 
 public final class R {
 	public static final class layout {
-		public static final int dtm_preview_activity = 0x7f040005;
+		public static final int dtm_preview_activity = 0x7f040006;
 	}
 }

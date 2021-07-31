@@ -13,7 +13,7 @@ public final class R {
 		public static final int emui_color_gray_7 = 0x7f080008;
 	}
 	public static final class id {
-		public static final int enable_service_text = 0x7f06000b;
+		public static final int enable_service_text = 0x7f06000c;
 	}
 	public static final class layout {
 		public static final int activity_endisable_service = 0x7f040001;

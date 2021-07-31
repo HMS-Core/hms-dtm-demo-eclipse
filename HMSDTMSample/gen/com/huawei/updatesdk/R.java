@@ -31,27 +31,27 @@ public final class R {
 		public static final int upsdk_update_all_button = 0x7f020009;
 	}
 	public static final class id {
-		public static final int action = 0x7f06003e;
-		public static final int allsize_textview = 0x7f06004c;
-		public static final int appsize_textview = 0x7f06004b;
-		public static final int cancel_bg = 0x7f060041;
-		public static final int cancel_imageview = 0x7f060042;
-		public static final int content_layout = 0x7f06004d;
-		public static final int content_textview = 0x7f06004e;
-		public static final int divider = 0x7f060045;
-		public static final int name_layout = 0x7f060046;
-		public static final int name_textview = 0x7f060047;
-		public static final int scroll_layout = 0x7f060044;
-		public static final int size_layout = 0x7f06004a;
-		public static final int third_app_dl_progress_text = 0x7f06003f;
-		public static final int third_app_dl_progressbar = 0x7f060043;
-		public static final int third_app_warn_text = 0x7f060040;
-		public static final int version_layout = 0x7f060048;
-		public static final int version_textview = 0x7f060049;
+		public static final int action = 0x7f060040;
+		public static final int allsize_textview = 0x7f06004e;
+		public static final int appsize_textview = 0x7f06004d;
+		public static final int cancel_bg = 0x7f060043;
+		public static final int cancel_imageview = 0x7f060044;
+		public static final int content_layout = 0x7f06004f;
+		public static final int content_textview = 0x7f060050;
+		public static final int divider = 0x7f060047;
+		public static final int name_layout = 0x7f060048;
+		public static final int name_textview = 0x7f060049;
+		public static final int scroll_layout = 0x7f060046;
+		public static final int size_layout = 0x7f06004c;
+		public static final int third_app_dl_progress_text = 0x7f060041;
+		public static final int third_app_dl_progressbar = 0x7f060045;
+		public static final int third_app_warn_text = 0x7f060042;
+		public static final int version_layout = 0x7f06004a;
+		public static final int version_textview = 0x7f06004b;
 	}
 	public static final class layout {
-		public static final int upsdk_app_dl_progress_dialog = 0x7f04000f;
-		public static final int upsdk_ota_update_view = 0x7f040010;
+		public static final int upsdk_app_dl_progress_dialog = 0x7f040010;
+		public static final int upsdk_ota_update_view = 0x7f040011;
 	}
 	public static final class string {
 		public static final int upsdk_app_dl_installing = 0x7f07000a;

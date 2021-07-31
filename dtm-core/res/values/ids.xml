@@ -2,4 +2,5 @@
 <resources>
     <item type="id" name="dtm_visual_control_button_id" />
     <item type="id" name="dtm_preview_control_button_id" />
+    <item type="id" name="dtm_onclick_timestamp_id" />
 </resources>

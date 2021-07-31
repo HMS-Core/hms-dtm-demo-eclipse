@@ -49,5 +49,8 @@
         <activity
             android:name=".autotrace.TabHostActivity"
             android:exported="false" />
+        <activity
+            android:name=".autotrace.WebViewActivity"
+            android:exported="false" />
     </application>
 </manifest>

@@ -1,8 +1,8 @@
 # HMS Dynamic Tag Manager(DTM) Sample for Android
 
-[![hms](https://img.shields.io/badge/hms-dtm-brightgreen)](https://developer.huawei.com/consumer/en/doc/development/HMS-References/3021004) 
+[![hms](https://img.shields.io/badge/hms-dtm-brightgreen)](https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/introduction-0000001050043907) 
 
-English | [中文](https://github.com/HMS-Core/hms-dtm-demo-eclipse/blob/master/README_ZH.md)
+English | [中文](https://git.huawei.com/HMS_Core_SPDT/WiseAnalytics/DTM/DTMSDK_Eclipse_CodeLab/blob/master/README_ZH.md)
 
 ## Table of Contents
 
@@ -46,8 +46,6 @@ If you have questions about how to use HMS samples, try the following options:
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/huawei-mobile-services) is the best place for any programming questions. Be sure to tag your question with 
 `huawei-mobile-services`.
 - [Huawei Developer Forum](https://forums.developer.huawei.com/forumPortal/en/home?fid=0101187876626530001) HMS Core Module is great for general questions, or seeking recommendations and opinions.
-
-If you run into a bug in our samples, please submit an [issue](https://github.com/HMS-Core/hms-dtm-demo-eclipse/issues) to the Repository. Even better you can submit a [Pull Request](https://github.com/HMS-Core/hms-dtm-demo-eclipse/pulls) with a fix.
 
 ## License
 The sample code has obtained the [Apache License, version 2.0](http://www.apache.org/licenses/LICENSE-2.0).

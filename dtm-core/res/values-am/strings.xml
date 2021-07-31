@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="dtm_visual_dialog_message" priority="translator">"እርግጠኛ ነዎት መለያየት ይፈልጋሉ?"</string>
+    <string name="dtm_visual_dialog_message" priority="LT">"እርግጠኛ ነዎት ከአገልጋዩ ማለያየት ይፈልጋሉ?"</string>
     <string name="dtm_visual_dialog_button_cancel" priority="translator">"ይቅር"</string>
     <string name="dtm_visual_dialog_button_confirm" priority="LT">"እሺ"</string>
     <string name="dtm_visual_toast_connect_failed" priority="translator">"መገናኘት አልተቻለም።"</string>

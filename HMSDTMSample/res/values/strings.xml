@@ -15,6 +15,7 @@
     <string name="auto_trace_sv_h">Auto Trace For ScrollView horizontal</string>
     <string name="auto_trace_vp">Auto Trace For ViewPager</string>
     <string name="auto_trace_tab_host">Auto Trace For TabHost</string>
+    <string name="auto_trace_web_view">Auto Trace For WebView</string>
     
     
     <string name="add_item">Add Item</string>

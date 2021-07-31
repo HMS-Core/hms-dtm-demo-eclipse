@@ -12,6 +12,7 @@
 	<classpathentry exported="true" kind="lib" path="libs/greendao-api-3.3.0.jar"/>
 	<classpathentry exported="true" kind="lib" path="libs/hianalytics-core-5.0.5.301.jar"/>
 	<classpathentry exported="true" kind="lib" path="libs/hianalytics-framework-5.0.5.301.jar"/>
+	<classpathentry kind="lib" path="libs/ads-identifier.3.4.37.300.jar"/>
 	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="gen"/>
